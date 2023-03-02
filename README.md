@@ -2,6 +2,8 @@
 
 Exercise for MSCH-C220
 
+A demonstration of this exercise is available at [https://youtu.be/0ovTabp_jEs](https://youtu.be/0ovTabp_jEs).
+
 This exercise is designed to continue our creation of a 2D Platformer, by demonstrating some different types of enemies.
 
 The expectations for this exercise are that you will
